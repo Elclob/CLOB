@@ -13,6 +13,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a .vendes{
+    background: #94d18c;
+    border-radius: 50px;
+}
+
+a .vendes:hover{
+    background: #3d85ff;
+    box-shadow: 10px 10px;
+}
 
 header .logo .clob{
   font-size: 30px;
